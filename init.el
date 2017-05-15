@@ -59,7 +59,7 @@
 (require 'init-evil)
 (require 'init-evil-surround)
 (require 'init-evil-nerd-commenter)
-(require 'init-powerline)
+(require 'init-telephone-line)
 (require 'init-nlinum-relative)
 (require 'init-ace-window)
 (require 'init-ivy)
@@ -101,7 +101,6 @@
 (global-set-key (kbd "C-x C-k") 'kill-buffer-and-window)
 (global-set-key (kbd "C-x f") 'find-file)
 (global-set-key (kbd "C-x v") 'find-alternate-file)
-
 
 (add-to-list 'display-buffer-alist
 	     `(,(rx bos "*Flycheck errors*" eos)
