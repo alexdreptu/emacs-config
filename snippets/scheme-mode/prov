@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: prov
+# key: prov
+# --
+(provide '${1:name})

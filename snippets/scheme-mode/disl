@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: disl
+# key: disl
+# --
+(displayln $1)

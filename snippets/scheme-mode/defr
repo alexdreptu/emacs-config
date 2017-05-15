@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: defr
+# key: defr
+# --
+(define-syntax-rule $1)

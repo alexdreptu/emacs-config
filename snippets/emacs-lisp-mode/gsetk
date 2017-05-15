@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: gsetk
+# key: gsetk
+# --
+(global-set-key (kbd "${1:key}") '${2:function})

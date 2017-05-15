@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: defk
+# key: defk
+# --
+(define-key ${1:mode-map} (kbd "${2:key}") '${3:function})
