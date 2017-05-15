@@ -11,13 +11,7 @@
  ;; If there is more than one, they won't work right.
  '(ansi-color-faces-vector
    [default default default italic underline success warning error])
- '(custom-safe-themes
-   (quote
-    ("84d2f9eeb3f82d619ca4bfffe5f157282f4779732f48a5ac1484d94d5ff5b279" "a27c00821ccfd5a78b01e4f35dc056706dd9ede09a8b90c6955ae6a390eb1c1e" default)))
- '(inhibit-startup-screen t)
- '(package-selected-packages
-   (quote
-    (smart-mode-line-powerline-theme swiper highlight-chars powerline smart-mode-line slime which-key avy ##))))
+ '(inhibit-startup-screen t))
 
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
